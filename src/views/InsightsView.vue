@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Authority guidance</span><h2>Protective measures should follow the adult without forcing families to restart proceedings</h2><p>Central authorities can coordinate jurisdiction, urgent safeguards, recognition and representation while keeping the adult's rights visible.</p></section></template>
